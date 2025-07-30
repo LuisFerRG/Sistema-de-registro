@@ -4,3 +4,5 @@
 Para ejecutar el sistema, debes poner:
 
 nps install REact
+
+sistema de registro 2
